@@ -1,10 +1,10 @@
 # Project Moonland 13
-该项目是FoxPixels的Minecraft多人生存服务器
+该项目是FoxPixels的Minecraft多人生存服务器  
 感谢玩家对**Project Moonland 13**支持！
 ___
 ## 游玩
-Java 26.1.2
-服务器地址 fox.fucku.top
+Java 26.1.2  
+服务器地址 fox.fucku.top  
 QQ群 1012371275
 > Bedrock不在支持！
 ___
