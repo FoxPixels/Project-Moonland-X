@@ -1,6 +1,7 @@
 # Project Moonland 13
 该项目是FoxPixels的Minecraft多人生存服务器  
 感谢玩家对**Project Moonland 13**支持！
+> ~~Moonland SMP~~ > Project Moonland 13
 ## 游玩!
 Java 26.1.2  
 服务器地址 fox.fucku.top  
