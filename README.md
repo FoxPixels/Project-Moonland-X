@@ -25,9 +25,9 @@ d{Minecraft Server}
   b-->d
   c-->cc(Microsoft Build of OpenJDK)
   cc-->ccc(/bin/java)
-  d-->dd(Paper)
   d-->Velocity(Velocity)
-  d-->FRP
+  d-->dd(Paper)
+  b-->FRP
   dd-->ccc
   Velocity-->ccc
   dd-->EULA
