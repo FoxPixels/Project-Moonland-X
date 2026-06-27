@@ -14,6 +14,35 @@ Webside <https://foxpixels.github.io/mc>
 - lower [[-来啦_](https://space.bilibili.com/1922397519)]
 - hydez [[欢愉de张](https://space.bilibili.com/521478291)]
 > 以后还会添加
+## 结构图
+```mermaid
+flowchart LR
+b{文件夹}
+c(Java)
+d{Minecraft Server}
+  a(主机) --> b
+  b-->c
+  b-->d
+  c-->cc(Microsoft Build of OpenJDK)
+  cc-->ccc(/bin/java)
+  d-->dd(Paper)
+  d-->Velocity(Velocity)
+  d-->FRP
+  dd-->ccc
+  Velocity-->ccc
+  dd-->EULA
+  EULA-->True
+  dd-->IP(IP)
+  IP-->25566
+  Velocity-->IP2(IP)
+  IP2-->25565
+  FRP-->25565
+  FRP-->25566
+  25565-->TCP(TCP)
+  25566-->TCP
+  TCP-->fox.fucku.top
+```
+> 写得不好...
 ## 彩蛋!
 ```html
 <p>你是一只可爱的狐狸！</p>
