@@ -5,7 +5,7 @@
 ## 游玩!
 Java 26.1.2  
 服务器地址 fox.fucku.top  
-QQ群 1012371275  
+QQ群 515099384  
 Webside <https://foxpixels.github.io/mc>
 > Bedrock不在支持！
 ## 贡献者!
